@@ -22,7 +22,7 @@ try:
 except ImportError:
     pass
 
-BOT_TOKEN = "8900820138:AAEWhKDQLljmnfkt0o8iBaGVOuhe6Xvm3qk"
+BOT_TOKEN = "8875853617:AAFtgOQ7BWVmoOsJAjGaNlTZelrAytuXwiQ"
 API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 MAX_WORKERS = 500
 BATCH_SIZE = 200
